@@ -22,9 +22,8 @@ You can click the Preview link to take a look at your changes.
       <tbody>
         <tr>
           <td>Backend</td>
-          <td>![PHP Version](https://img.shields.io/badge/PHP-8.0-blue.svg)</td>
+          <td>![Static Badge](https://img.shields.io/badge/php-8)</td>
         </tr>
       </tbody>
-    </table>
- 
+    </table> 
 </details>
