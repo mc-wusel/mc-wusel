@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-blue?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Microsoft AL](https://img.shields.io/badge/Language-Microsoft_AL-blue?logo=microsoft)]([https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/developer-overview](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview))
+[![Microsoft AL](https://img.shields.io/badge/Language-Microsoft_AL-blue?logo=microsoft)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-dev-overview)
 
 
 
