@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mc-wusel
+
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,6 +10,11 @@
 mc-wusel/mc-wusel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Hi there 👋
+- 🔭 I’m currently primarily engaged in Microsoft AL and PowerShell in my professional career.
+- 📕 I’m currently learning about AL, PowerApps, GitHub, Python
+- ⬇️ Look what I'm dealing with on the side
 
 <details>
 <summary>Frontend</summary>
