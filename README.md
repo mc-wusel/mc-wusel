@@ -56,3 +56,7 @@ You can click the Preview link to take a look at your changes.
   [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
   [![MS-DOS BASIC](https://img.shields.io/badge/Language-MS--DOS%20BASIC-blue?logo=ms-dos)](https://en.wikipedia.org/wiki/Microsoft_BASIC)
 </details>
+
+## At the moment I'm working with these languages!
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-wusel&layout=compact)
+
