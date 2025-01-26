@@ -60,3 +60,11 @@ You can click the Preview link to take a look at your changes.
 ## At the moment I'm working with these languages!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-wusel&layout=compact)
 
+
+
+
+☕️ I'm a passionate coffee drinker and enjoy every single cup.
+If you want to support me, I'm always happy with a cup of coffee!
+<a href='https://ko-fi.com/Q5Q819M0AU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee' /></a>
+
+
