@@ -66,6 +66,6 @@ You can click the Preview link to take a look at your changes.
 ☕️ I'm a passionate coffee drinker and enjoy every single cup.
 If you want to support me, I'm always happy with a cup of coffee!
 
-<a href='https://ko-fi.com/Q5Q819M0AU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://ko-fi.com/mcwusel' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee' /></a>
 
 
