@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi there 👋
-- 🔭 I’m currently primarily engaged in Microsoft AL and PowerShell in my professional career.
+- 🔭 I’m currently primarily engaged in Microsoft AL, C# and PowerShell in my professional career.
 - 📕 I’m currently with AL, Powershell, Python
 - ⬇️ Look what I'm dealing with on the side
 
