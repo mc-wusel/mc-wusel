@@ -60,7 +60,8 @@ You can click the Preview link to take a look at your changes.
 ## At the moment I'm working with these languages!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-wusel&layout=compact)
 
-
+## Connect with me ##
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarkus-clausnitzer%2F)
 
 
 ☕️ I'm a passionate coffee drinker and enjoy every single cup.
